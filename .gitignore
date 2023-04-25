@@ -1,0 +1,4 @@
+secrets.txt
+
+#comment 
+# *.txt - not to push all files with extension .txt
